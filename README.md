@@ -1,12 +1,9 @@
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
-
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
 ## Algorithm
 1. Start the program:Import the required libraries and load the customer dataset.
 2.Preprocess the data:Select important features such as Age, Income, and Spending Score, and handle missing values if any.
@@ -15,7 +12,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 Update centroids repeatedly until the clusters become stable.
 5.Visualize and analyze the clusters:Display the clustered customer groups using graphs and interpret customer segments for business decision-making.
 6.Stop the program 
-
 ## Program:
 ```
 /*
@@ -51,12 +47,9 @@ plt.legend()
 plt.show()
 print(df)
 ```
-
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
 <img width="673" height="508" alt="image" src="https://github.com/user-attachments/assets/34d1c113-3392-464c-a59b-9c2614dffec9" />
 <img width="600" height="421" alt="image" src="https://github.com/user-attachments/assets/16869f79-9c6f-4b16-bebd-1d2befecfd8f" />
-
-
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
